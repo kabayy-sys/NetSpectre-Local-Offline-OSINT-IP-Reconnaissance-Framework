@@ -1,0 +1,15 @@
+# Bytecode Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Log, sementara & artefak uji
+*.log
+*.tmp
+scratch/
+
+# Artefak lab latihan (hash dihasilkan saat runtime)
+login_lab/password.hash
